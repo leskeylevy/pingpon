@@ -2,15 +2,14 @@
   text-align: center;
   font-style: italic;
   color: yellow;
-  background-color: green;
-  background-image: image(src="pingpon/css/download.png");
-  background-image:url("download.png") ;
+  background-color: green ;
 }
 .about {
   float: right;
 }
 .container{
   background-color: black;
+  background-image: url("donload.png");
 }
 #form {
   background-color: red;
