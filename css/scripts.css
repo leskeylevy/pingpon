@@ -4,6 +4,7 @@
   color: yellow;
   background-color: green;
   background-image: image(src="pingpon/css/download.png");
+  background-image:url("download.png") ;
 }
 .about {
   float: right;
