@@ -1,0 +1,16 @@
+.jumbtron {
+  text-align: center;
+  font-style: italic;
+  color: yellow;
+  background-color: green;
+  background-image: image(src="pingpon/css/download.png");
+}
+.about {
+  float: right;
+}
+.container{
+  background-color: black;
+}
+#form {
+  background-color: red;
+}
