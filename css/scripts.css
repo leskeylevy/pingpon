@@ -3,7 +3,7 @@
   font-style: italic;
   color: yellow;
   background-color: green;
-  background-image: url(/home/levy/Documents/moringa-school-projects/marvel/imgs/deadpool-2.jpg);
+  background-image:url("download.png") ;
 }
 .about {
   float: right;
